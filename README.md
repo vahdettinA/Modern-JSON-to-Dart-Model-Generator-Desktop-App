@@ -35,4 +35,4 @@ Artık hem ben hem de diğer geliştiriciler tek tıkla modellerini oluşturabil
 
 ---
 ## Ekran Görüntüsü
-img<src "image.png"/>
+img<src="image.png"/>
