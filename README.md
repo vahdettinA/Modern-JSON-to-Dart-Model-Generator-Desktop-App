@@ -34,3 +34,5 @@ Artık hem ben hem de diğer geliştiriciler tek tıkla modellerini oluşturabil
 - Null-Safety destekli Dart model generator altyapısı
 
 ---
+## Ekran Görüntüsü
+img<src "image.png"/>
